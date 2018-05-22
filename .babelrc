@@ -1,0 +1,12 @@
+{
+  "presets": ["react-native", "react-native-dotenv"],
+  "plugins": [
+    ["module-resolver", {
+      "cwd": "babelrc",
+      "root": "./src",
+      "alias": {
+        "components": "./src/components"
+      }
+    }]
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "login": {
+   "email": "Введите свой email",
+   "password": "Введите свой пароль",
+   "login_button": "Войти",
+   "register_button": "Зарегистрироваться"
+ },
+}
